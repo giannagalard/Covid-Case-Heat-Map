@@ -1,4 +1,4 @@
-# CUNY-Hackathon-2021
+# Covid Case Heat Map
 
 [Live Demo!](https://www.youtube.com/watch?v=Z3nPS9t-Fsg)
 
