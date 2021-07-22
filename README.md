@@ -2,7 +2,7 @@
 
 [Live Demo!](https://www.youtube.com/watch?v=Z3nPS9t-Fsg)
 
-Built By: Gianna Galard, Christopher Immiti, and Eric Meyer
+Built By: Gianna Galard, and Eric Meyer
 
 ## Inspiration
 One of our biggest inspirations behind this project was to bring awareness to the rising COVID cases in our local area of Staten Island. As the COVID cases grow in number, so do the hospitalizations, and sadly, the death toll. As a team, we are interested in helping users by providing them with an informative as well as comfortable experience to help them be more responsible while ensuring they don’t feel overwhelmed or stressed.
